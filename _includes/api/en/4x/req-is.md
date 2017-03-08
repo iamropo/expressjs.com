@@ -1,4 +1,4 @@
-<h3 id='req.is'>req.is(type)</h3>
+<h3 id='req.is'>req.is(type)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Returns `true` if the incoming request's "Content-Type" HTTP header field
 matches the MIME type specified by the `type` parameter.

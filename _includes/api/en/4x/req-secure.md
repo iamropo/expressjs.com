@@ -1,4 +1,4 @@
-<h3 id='req.secure'>req.secure</h3>
+<h3 id='req.secure'>req.secure<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 A Boolean property that is true if a TLS connection is established. Equivalent to:
 

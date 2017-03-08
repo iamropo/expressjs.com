@@ -1,4 +1,4 @@
-<h3 id='req.ip'>req.ip</h3>
+<h3 id='req.ip'>req.ip<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Contains the remote IP address of the request.
 

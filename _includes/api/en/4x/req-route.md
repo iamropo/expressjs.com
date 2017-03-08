@@ -1,4 +1,4 @@
-<h3 id='req.route'>req.route</h3>
+<h3 id='req.route'>req.route<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Contains the currently-matched route, a string.  For example:
 

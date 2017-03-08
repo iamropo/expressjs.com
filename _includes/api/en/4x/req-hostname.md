@@ -1,4 +1,4 @@
-<h3 id='req.hostname'>req.hostname</h3>
+<h3 id='req.hostname'>req.hostname<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Contains the hostname derived from the `Host` HTTP header.
 

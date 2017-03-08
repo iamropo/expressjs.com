@@ -1,4 +1,4 @@
-<h3 id='req.subdomains'>req.subdomains</h3>
+<h3 id='req.subdomains'>req.subdomains<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 An array of subdomains in the domain name of the request.
 

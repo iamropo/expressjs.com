@@ -1,4 +1,4 @@
-<h3 id='req.params'>req.params</h3>
+<h3 id='req.params'>req.params<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 This property is an object containing properties mapped to the [named route "parameters"](/{{ page.lang }}/guide/routing.html#route-parameters). For example, if you have the route `/user/:name`, then the "name" property is available as `req.params.name`. This object defaults to `{}`.
 

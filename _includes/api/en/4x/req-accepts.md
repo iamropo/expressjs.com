@@ -1,4 +1,4 @@
-<h3 id='req.accepts'>req.accepts(types)</h3>
+<h3 id='req.accepts'>req.accepts(types)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Checks if the specified content types are acceptable, based on the request's `Accept` HTTP header field.
 The method returns the best match, or if none of the specified content types is acceptable, returns

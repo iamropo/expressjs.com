@@ -1,4 +1,4 @@
-<h3 id='req.protocol'>req.protocol</h3>
+<h3 id='req.protocol'>req.protocol<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Contains the request protocol string: either `http` or (for TLS requests) `https`.
 

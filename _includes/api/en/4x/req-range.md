@@ -1,4 +1,4 @@
-<h3 id='req.range'>req.range(size[, options])</h3>
+<h3 id='req.range'>req.range(size[, options])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 `Range` header parser.
 

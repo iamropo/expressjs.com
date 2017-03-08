@@ -1,4 +1,4 @@
-<h3 id='req.path'>req.path</h3>
+<h3 id='req.path'>req.path<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Contains the path part of the request URL.
 

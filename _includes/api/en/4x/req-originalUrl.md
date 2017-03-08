@@ -1,4 +1,4 @@
-<h3 id='req.originalUrl'>req.originalUrl</h3>
+<h3 id='req.originalUrl'>req.originalUrl<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 <div class="doc-box doc-notice" markdown="1">
 `req.url` is not a native Express property, it is inherited from Node's [http module](https://nodejs.org/api/http.html#http_message_url).

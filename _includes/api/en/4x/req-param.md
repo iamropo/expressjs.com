@@ -1,4 +1,4 @@
-<h3 id='req.param'>req.param(name [, defaultValue])</h3>
+<h3 id='req.param'>req.param(name [, defaultValue])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 <div class="doc-box doc-warn" markdown="1">
 Deprecated. Use either `req.params`, `req.body` or `req.query`, as applicable.

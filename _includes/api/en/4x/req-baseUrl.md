@@ -1,4 +1,4 @@
-<h3 id='req.baseUrl'>req.baseUrl</h3>
+<h3 id='req.baseUrl'>req.baseUrl<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 The URL path on which a router instance was mounted.
 

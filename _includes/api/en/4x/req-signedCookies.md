@@ -1,4 +1,4 @@
-<h3 id='req.signedCookies'>req.signedCookies</h3>
+<h3 id='req.signedCookies'>req.signedCookies<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 When using [cookie-parser](https://www.npmjs.com/package/cookie-parser) middleware, this property
 contains signed cookies sent by the request, unsigned and ready for use. Signed cookies reside

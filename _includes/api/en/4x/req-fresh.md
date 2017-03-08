@@ -1,4 +1,4 @@
-<h3 id='req.fresh'>req.fresh</h3>
+<h3 id='req.fresh'>req.fresh<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Indicates whether the request is "fresh."  It is the opposite of `req.stale`.
 

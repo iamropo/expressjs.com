@@ -1,4 +1,4 @@
-<h3 id='req.acceptsLanguages'>req.acceptsLanguages(lang [, ...])</h3>
+<h3 id='req.acceptsLanguages'>req.acceptsLanguages(lang [, ...])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Returns the first accepted language of the specified languages,
 based on the request's `Accept-Language` HTTP header field.

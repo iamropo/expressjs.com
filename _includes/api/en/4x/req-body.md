@@ -1,4 +1,4 @@
-<h3 id='req.body'>req.body</h3>
+<h3 id='req.body'>req.body<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Contains key-value pairs of data submitted in the request body.
 By default, it is `undefined`, and is populated when you use body-parsing middleware such

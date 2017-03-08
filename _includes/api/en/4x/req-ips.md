@@ -1,4 +1,4 @@
-<h3 id='req.ips'>req.ips</h3>
+<h3 id='req.ips'>req.ips<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 When the [`trust proxy` setting](/4x/api.html#trust.proxy.options.table) does not evaluate to `false`,
 this property contains an array of IP addresses

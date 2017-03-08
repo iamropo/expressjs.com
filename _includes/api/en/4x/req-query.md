@@ -1,4 +1,4 @@
-<h3 id='req.query'>req.query</h3>
+<h3 id='req.query'>req.query<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 This property is an object containing a property for each query string parameter in the route.
 If there is no query string, it is the empty object, `{}`.
