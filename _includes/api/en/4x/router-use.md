@@ -1,4 +1,4 @@
-<h3 id='router.use'>router.use([path], [function, ...] function)</h3>
+<h3 id='router.use'>router.use([path], [function, ...] function)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Uses the specified middleware function or functions, with optional mount path `path`, that defaults to "/".
 

@@ -1,4 +1,4 @@
-<h3 id='router.METHOD'>router.METHOD(path, [callback, ...] callback)</h3>
+<h3 id='router.METHOD'>router.METHOD(path, [callback, ...] callback)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 The `router.METHOD()` methods provide the routing functionality in Express,
 where METHOD is one of the HTTP methods, such as GET, PUT, POST, and so on,

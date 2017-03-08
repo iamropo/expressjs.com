@@ -1,4 +1,4 @@
-<h3 id='router.all'>router.all(path, [callback, ...] callback)</h3>
+<h3 id='router.all'>router.all(path, [callback, ...] callback)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 This method is just like the `router.METHOD()` methods, except that it matches all HTTP methods (verbs).
 

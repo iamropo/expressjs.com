@@ -1,4 +1,4 @@
-<h3 id='router.route'>router.route(path)</h3>
+<h3 id='router.route'>router.route(path)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Returns an instance of a single route which you can then use to handle HTTP verbs
 with optional middleware. Use `router.route()` to avoid duplicate route naming and

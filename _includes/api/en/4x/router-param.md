@@ -1,4 +1,4 @@
-<h3 id='router.param'>router.param(name, callback)</h3>
+<h3 id='router.param'>router.param(name, callback)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Adds callback triggers to route parameters, where `name` is the name of the parameter and `callback` is the callback function. Although `name` is technically optional, using this method without it is deprecated starting with Express v4.11.0 (see below).
 
