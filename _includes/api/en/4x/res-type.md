@@ -1,4 +1,4 @@
-<h3 id='res.type'>res.type(type)</h3>
+<h3 id='res.type'>res.type(type)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sets the `Content-Type` HTTP header to the MIME type as determined by
 [mime.lookup()](https://github.com/broofa/node-mime#mimelookuppath) for the specified `type`.

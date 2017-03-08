@@ -1,4 +1,4 @@
-<h3 id='res.clearCookie'>res.clearCookie(name [, options])</h3>
+<h3 id='res.clearCookie'>res.clearCookie(name [, options])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Clears the cookie specified by `name`. For details about the `options` object, see [res.cookie()](#res.cookie).
 

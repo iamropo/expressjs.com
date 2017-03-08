@@ -1,4 +1,4 @@
-<h3 id='res.sendStatus'>res.sendStatus(statusCode)</h3>
+<h3 id='res.sendStatus'>res.sendStatus(statusCode)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sets the response HTTP status code to `statusCode` and send its string representation as the response body.
 

@@ -1,4 +1,4 @@
-<h3 id='res.download'>res.download(path [, filename] [, fn])</h3>
+<h3 id='res.download'>res.download(path [, filename] [, fn])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Transfers the file at `path` as an "attachment". Typically, browsers will prompt the user for download.
 By default, the `Content-Disposition` header "filename=" parameter is `path` (this typically appears in the browser dialog).

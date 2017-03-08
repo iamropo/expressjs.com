@@ -1,4 +1,4 @@
-<h3 id='res.cookie'>res.cookie(name, value [, options])</h3>
+<h3 id='res.cookie'>res.cookie(name, value [, options])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sets cookie `name` to `value`.  The `value` parameter may be a string or object converted to JSON.
 

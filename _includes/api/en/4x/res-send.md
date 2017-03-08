@@ -1,4 +1,4 @@
-<h3 id='res.send'>res.send([body])</h3>
+<h3 id='res.send'>res.send([body])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sends the HTTP response.
 

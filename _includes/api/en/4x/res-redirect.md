@@ -1,4 +1,4 @@
-<h3 id='res.redirect'>res.redirect([status,] path)</h3>
+<h3 id='res.redirect'>res.redirect([status,] path)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Redirects to the URL derived from the specified `path`, with specified `status`, a positive integer
 that corresponds to an [HTTP status code](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html) .

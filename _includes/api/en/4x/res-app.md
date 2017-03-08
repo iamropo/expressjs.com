@@ -1,4 +1,4 @@
-<h3 id='res.app'>res.app</h3>
+<h3 id='res.app'>res.app<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 This property holds a reference to the instance of the Express application that is using the middleware.
 

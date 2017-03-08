@@ -1,4 +1,4 @@
-<h3 id='res.end'>res.end([data] [, encoding])</h3>
+<h3 id='res.end'>res.end([data] [, encoding])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Ends the response process. This method actually comes from Node core, specifically the [response.end() method of  http.ServerResponse](https://nodejs.org/api/http.html#http_response_end_data_encoding_callback).
 

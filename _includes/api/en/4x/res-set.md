@@ -1,4 +1,4 @@
-<h3 id='res.set'>res.set(field [, value])</h3>
+<h3 id='res.set'>res.set(field [, value])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sets the response's HTTP header `field` to `value`.
 To set multiple fields at once, pass an object as the parameter.

@@ -1,4 +1,4 @@
-<h3 id='res.status'>res.status(code)</h3>
+<h3 id='res.status'>res.status(code)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sets the HTTP status for the response.
 It is a chainable alias of Node's [response.statusCode](http://nodejs.org/api/http.html#http_response_statuscode).

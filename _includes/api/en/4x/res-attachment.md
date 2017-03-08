@@ -1,4 +1,4 @@
-<h3 id='res.attachment'>res.attachment([filename])</h3>
+<h3 id='res.attachment'>res.attachment([filename])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sets the HTTP response `Content-Disposition` header field to "attachment". If a `filename` is given,
 then it sets the Content-Type based on the extension name via `res.type()`,

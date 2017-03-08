@@ -1,4 +1,4 @@
-<h3 id='res.json'>res.json([body])</h3>
+<h3 id='res.json'>res.json([body])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sends a JSON response. This method sends a response (with the correct content-type) that is the parameter converted to a 
 JSON string using [JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify).

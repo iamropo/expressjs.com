@@ -1,4 +1,4 @@
-<h3 id='res.render'>res.render(view [, locals] [, callback])</h3>
+<h3 id='res.render'>res.render(view [, locals] [, callback])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Renders a `view` and sends the rendered HTML string to the client.
 Optional parameters:

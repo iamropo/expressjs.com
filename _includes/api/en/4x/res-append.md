@@ -1,4 +1,4 @@
-<h3 id='res.append'>res.append(field [, value])</h3>
+<h3 id='res.append'>res.append(field [, value])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 <div class="doc-box doc-info" markdown="1">
 `res.append()` is supported by Express v4.11.0+

@@ -1,4 +1,4 @@
-<h3 id='res.locals'>res.locals</h3>
+<h3 id='res.locals'>res.locals<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 An object that contains response local variables scoped to the request, and therefore available only to
 the view(s) rendered during that request / response cycle (if any). Otherwise,

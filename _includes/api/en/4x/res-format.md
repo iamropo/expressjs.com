@@ -1,4 +1,4 @@
-<h3 id='res.format'>res.format(object)</h3>
+<h3 id='res.format'>res.format(object)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Performs content-negotiation on the `Accept` HTTP header on the request object, when present.
 It uses [req.accepts()](#req.accepts) to select a handler for the request, based on the acceptable

@@ -1,4 +1,4 @@
-<h3 id='res.location'>res.location(path)</h3>
+<h3 id='res.location'>res.location(path)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Sets the response `Location` HTTP header to the specified `path` parameter.
 
