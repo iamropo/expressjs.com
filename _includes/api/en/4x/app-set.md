@@ -1,4 +1,4 @@
-<h3 id='app.set'>app.set(name, value)</h3>
+<h3 id='app.set'>app.set(name, value)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Assigns setting `name` to `value`, where `name` is one of the properties from
 the [app settings table](#app.settings.table).

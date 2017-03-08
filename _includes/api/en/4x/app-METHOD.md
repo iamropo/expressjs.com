@@ -1,4 +1,7 @@
-<h3 id='app.METHOD'>app.METHOD(path, callback [, callback ...])</h3>
+<h3 id='app.METHOD'>
+    app.METHOD(path, callback [, callback ...])
+    <span class="avaibility"></span> <span class="deprecated"></span>
+</h3>
 
 Routes an HTTP request, where METHOD is the HTTP method of the request, such as GET,
 PUT, POST, and so on, in lowercase. Thus, the actual methods are `app.get()`,

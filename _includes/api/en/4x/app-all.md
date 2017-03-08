@@ -1,4 +1,4 @@
-<h3 id='app.all'>app.all(path, callback [, callback ...])</h3>
+<h3 id='app.all'>app.all(path, callback [, callback ...])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 This method is like the standard [app.METHOD()](#app.METHOD) methods,
 except it matches all HTTP verbs.

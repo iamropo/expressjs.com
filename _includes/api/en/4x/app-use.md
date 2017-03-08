@@ -1,4 +1,4 @@
-<h3 id='app.use'>app.use([path,] callback [, callback...])</h3>
+<h3 id='app.use'>app.use([path,] callback [, callback...])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Mounts the specified [middleware](/guide/using-middleware.html) function or functions
 at the specified path:

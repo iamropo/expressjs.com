@@ -1,4 +1,4 @@
-<h3 id='app.locals'>app.locals</h3>
+<h3 id='app.locals'>app.locals<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 The `app.locals` object has properties that are local variables within the application.
 

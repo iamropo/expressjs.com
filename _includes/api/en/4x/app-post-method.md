@@ -1,4 +1,4 @@
-<h3 id='app.post.method'>app.post(path, callback [, callback ...])</h3>
+<h3 id='app.post.method'>app.post(path, callback [, callback ...])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Routes HTTP POST requests to the specified path with the specified callback functions.
 For more information, see the [routing guide](/guide/routing.html).

@@ -1,4 +1,4 @@
-<h3 id='app.listen'>app.listen(path, [callback])</h3>
+<h3 id='app.listen'>app.listen(path, [callback])<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Starts a UNIX socket and listens for connections on the given path.
 This method is identical to Node's [http.Server.listen()](https://nodejs.org/api/http.html#http_server_listen_path_callback).

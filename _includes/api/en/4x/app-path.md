@@ -1,4 +1,4 @@
-<h3 id='app.path'>app.path()</h3>
+<h3 id='app.path'>app.path()<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Returns the canonical path of the app, a string.
 

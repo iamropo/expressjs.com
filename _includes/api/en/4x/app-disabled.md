@@ -1,4 +1,4 @@
-<h3 id='app.disabled'>app.disabled(name)</h3>
+<h3 id='app.disabled'>app.disabled(name)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Returns `true` if the Boolean setting `name` is disabled (`false`), where `name` is one of the properties from
 the [app settings table](#app.settings.table).

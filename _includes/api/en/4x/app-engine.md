@@ -1,4 +1,4 @@
-<h3 id='app.engine'>app.engine(ext, callback)</h3>
+<h3 id='app.engine'>app.engine(ext, callback)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Registers the given template engine `callback` as `ext`.
 

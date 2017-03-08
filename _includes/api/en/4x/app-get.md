@@ -1,4 +1,4 @@
-<h3 id='app.get'>app.get(name)</h3>
+<h3 id='app.get'>app.get(name)<span class="avaibility"></span> <span class="deprecated"></span></h3>
 
 Returns the value of `name` app setting, where `name` is one of strings in the
 [app settings table](#app.settings.table). For example:
